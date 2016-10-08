@@ -2,7 +2,7 @@ function passCustom(){
 	simpleCart.checkoutTo = Custom;
 	simpleCart.email = &quot;mualado103@gmail.com&quot;
 	simpleCart.currency = VND;
-	simpleCart.successUrl = &quot;http://www.mynghedaingan.com/&quot;
+	simpleCart.successUrl = &quot;http://www.hoangdungsmartphone.top/&quot;
 } 
 function passGoogle(){ 
 	simpleCart.checkoutTo = Email; 		
